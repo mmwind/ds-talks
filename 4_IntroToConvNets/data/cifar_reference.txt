@@ -1,0 +1,2 @@
+Скачайте и распакуйте в эту папку набор данных CIFAR10:
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
